@@ -1,0 +1,10 @@
+Control,Type,Action,Kdenlive Name,Key/Behavior,Notes
+Button 1,Button,Play/Pause,Play,Space,Toggle playback
+Button 2,Button,Add Marker,Add Marker,M,Mark points during review
+Button 3,Button,Previous Frame,Rewind 1 Frame,Left,Step back one frame
+Button 4,Button,Next Frame,Forward 1 Frame,Right,Step forward one frame
+Button 5,Button,Cut at playhead,Cut Clip,Shift+R,Split clip at current position
+Jog Wheel CW,Jog,Next Frame,Forward 1 Frame,Right,Fine scrub forward
+Jog Wheel CCW,Jog,Previous Frame,Rewind 1 Frame,Left,Fine scrub backward
+Shuttle Ring Right,Shuttle,Forward Playback,Variable Speed Forward,L,"Spring-loaded; hold right for fwd, release stops"
+Shuttle Ring Left,Shuttle,Reverse Playback,Variable Speed Reverse,J,"Spring-loaded; hold left for rev, release stops"
